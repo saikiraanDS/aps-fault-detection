@@ -31,3 +31,11 @@ git log
 # Rest 
 Soft reset  # content willnot deleted log are deleted
 Hard Reset  # content will deleted
+
+
+git add . # to add file into 
+
+git status # Check the loaded into 
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  git commit -m "THis is our release"
